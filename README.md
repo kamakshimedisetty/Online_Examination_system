@@ -12,7 +12,7 @@ Features:
 
 Technologies Used:
 - Python 3
-- Lists, Dictionaries, Loops, Functions
+
 
 Learning Outcome:
 This project helped me understand basic Python programming,
